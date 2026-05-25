@@ -66,18 +66,6 @@ Residual diagnostics confirmed that the model residuals behaved approximately li
 | `figures/` | Forecast plots, diagnostics, and transformations |
 | `paper/` | Final project report |
 
----
-
-## Forecast Visualizations
-
-### Final Forecast
-![Forecast](figures/One_Year_Forecast.png)
-
-### Forecast Scenario Analysis
-![Scenario Analysis](figures/forecast_scenarios.png)
-
-### ACF and PACF Diagnostics
-![ACF PACF](figures/acf_pacf.png)
 
 ---
 
