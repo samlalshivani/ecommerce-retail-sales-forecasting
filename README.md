@@ -71,7 +71,7 @@ Residual diagnostics confirmed that the model residuals behaved approximately li
 ## Forecast Visualizations
 
 ### Final Forecast
-![Forecast](figures/forecast_baseline.png)
+![Forecast](figures/One_Year_Forecast.png)
 
 ### Forecast Scenario Analysis
 ![Scenario Analysis](figures/forecast_scenarios.png)
